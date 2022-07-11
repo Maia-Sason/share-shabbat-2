@@ -114,3 +114,20 @@
     flex-direction: column;
   }
 }
+
+.flexCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.flexColumn {
+  display: flex;
+  flex-direction: column;
+}
+
+.navigation {
+  height: 60px;
+  background: linear-gradient(rgb(193, 255, 255), rgb(255, 238, 215));
+}

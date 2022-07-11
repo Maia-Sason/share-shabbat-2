@@ -1,0 +1,55 @@
+.markdown {
+  --header-font-weight: 600;
+  --link-color: rgb(184, 33, 6);
+}
+
+.markdown h1 {
+  font-size: 2.4rem;
+  font-weight: var(--header-font-weight);
+}
+
+.markdown h2 {
+  font-size: 2.2rem;
+  font-weight: var(--header-font-weight);
+}
+
+.markdown h3 {
+  font-size: 1.8rem;
+  font-weight: var(--header-font-weight);
+}
+
+.markdown h4 {
+  font-size: 1.6rem;
+  font-weight: var(--header-font-weight);
+}
+
+.markdown h5 {
+  font-size: 1.4rem;
+  font-weight: var(--header-font-weight);
+}
+
+.markdown h6 {
+  font-size: 1.2rem;
+  font-weight: var(--header-font-weight);
+}
+
+.markdown p {
+}
+
+.markdown a {
+  color: var(--link-color);
+}
+
+.markdown ul {
+  list-style: inside;
+}
+
+.markdown table {
+}
+
+.markdown blockquote {
+  margin: auto;
+  background: rgb(240, 229, 229);
+  padding: 1rem;
+  border-radius: 8px;
+}
