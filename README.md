@@ -10,6 +10,10 @@ I'm using my project more than I thought, it's time for an upgrade. The first pr
 
 - [ ] - Show upcoming sessions
 
+Really nice to haves but not required:
+
+Would be really cool to set live/private sessions and add a feat to see live sessions, lonely users should be able to interact with them. Maybe some sort of push to talk feature/ just chat. Hosts should be able to determine whether an incoming user should be accepted. Only signed in users should be able to enter public rooms!
+
 ------
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
