@@ -1,3 +1,21 @@
+I'm using my project more than I thought, it's time for an upgrade. The first project was good with interesting concepts, but the code maintainability was ~~hot garbage~~ lacking and I built it using old tech. It could benefit from DX using NextJS as front-backend and CMS integration. I'd also like to add some new features such as:
+
+- [ ] - smart suggestions to push users to create new rooms more often
+
+- [ ] - Websockets integration more flexible for mobile users so if they disconnect they have an easy time reconnecting without too much trouble. (last viewed room or reconnect button)
+
+- [ ] - Make the editing experience better
+
+- [ ] - Add tags and categories
+
+- [ ] - Show upcoming sessions
+
+Really nice to haves but not required:
+
+Would be really cool to set live/private sessions and add a feat to see live sessions, lonely users should be able to interact with them. Maybe some sort of push to talk feature/ just chat. Hosts should be able to determine whether an incoming user should be accepted. Only signed in users should be able to enter public rooms!
+
+------
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
